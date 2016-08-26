@@ -1,5 +1,13 @@
 require 'rails_helper'
 
 RSpec.describe Band, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+  # Validaçõa de presença no Modelo
+  it {is_expected.to validate_presence_of(:name)}
+  it {is_expected.to validate_presence_of(:musical_genre)}
+  it {is_expected.to validate_presence_of(:site)}
+
+
+  
+
+
 end
