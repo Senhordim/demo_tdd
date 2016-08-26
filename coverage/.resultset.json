@@ -1,11 +1,19 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/diegocollares/app/demo_tdd/spec/models/name_spec.rb": [
+      "/Users/diegocollares/app/demo_tdd/spec/models/band_spec.rb": [
         1,
         null,
         1,
-        1,
+        null,
+        2,
+        2,
+        2,
+        null,
+        null,
+        2,
+        null,
+        null,
         null
       ],
       "/Users/diegocollares/app/demo_tdd/spec/rails_helper.rb": [
@@ -254,7 +262,8 @@
         null,
         null
       ],
-      "/Users/diegocollares/app/demo_tdd/spec/factories/names.rb": [
+      "/Users/diegocollares/app/demo_tdd/spec/factories/bands.rb": [
+        1,
         1,
         1,
         1,
@@ -324,11 +333,12 @@
         1,
         null
       ],
-      "/Users/diegocollares/app/demo_tdd/app/models/name.rb": [
+      "/Users/diegocollares/app/demo_tdd/app/models/band.rb": [
+        1,
         1,
         null
       ]
     },
-    "timestamp": 1472181320
+    "timestamp": 1472225316
   }
 }
